@@ -47,43 +47,6 @@ int main() {
         p = k * n;
         cout << k << "*" << n << "=" << p << endl;
     }
-/*
-        int aa = 8, pr = 1;
-        cout << "Task 4-1" << endl;
-        while (aa <= 15) {
-            pr = pr * aa;
-            aa++;
-        }
-        cout << p;
-
-    int f, p1 = 1;
-    cout << "Task 4-2" << endl;
-    cin >> f;
-    while (f < 20) {
-        p1 = p1*f;
-        f++;
-    }
-    cout << p1;
-
-
-    int br, p2 = 1;
-    cout << "Task 4-3" << endl;
-    cin >> br;
-    while ((br < 20) & (br > 1)) {
-        p1 = p2*br;
-        br--;
-    }
-    cout << p1;
-
-    int b1, m, p3 = 1;
-    cout << "Task 4-4" << endl;
-    cin >> b >> m;
-    while (b <= m) {
-        p3 = p3*b;
-        b++;
-    }
-    cout << p3;
-*/
 
     int s = 1;
     cout << "Task 4-1" << endl;
